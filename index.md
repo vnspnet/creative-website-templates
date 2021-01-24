@@ -1,10 +1,10 @@
 ## VNSP Design GitHub Pages
 
-You can checkout, contribute or download our open-source projects as [GitHub](https://github.com/vnspapp/vnsp.design).
+You can checkout, contribute or download our open-source projects as [GitHub](https://github.com/vnspnet).
 
 ### Wordpress Themes
 
-These themes are published on wordpress.org
+These themes are published on [wordpress.org](https://wordpress.org)
 
 ### Wordpress Plugin
 
