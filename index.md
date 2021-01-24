@@ -4,7 +4,7 @@ You can checkout, contribute or download our open-source projects as [GitHub](ht
 
 ### Wordpress Themes
 
-These themes are published on [wordpress.org](https://wordpress.org)
+These themes are published on [wordpress.org](https://wordpress.org/themes/)
 
 ### Wordpress Plugin
 
