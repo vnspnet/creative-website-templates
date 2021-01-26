@@ -4,11 +4,11 @@ You can checkout, contribute or download our open-source projects as [GitHub](ht
 
 ### Wordpress Themes
 
-These themes are published on [wordpress.org](https://wordpress.org/themes/)
+These themes are published on [wordpress.org themes](https://wordpress.org/themes/)
 
 ### Wordpress Plugin
 
-You can get newest plugins on wordpress.org
+You can get newest plugins on wordpress.org/plugins
 
 ### Landing page templates
 
@@ -16,4 +16,6 @@ Static HTML, CSS templates
 
 ### Support or Contact
 
-Having trouble with templates? Check out our [documentation](https://support.vnsp.net/) or [contact support](https://vnsp.net?p=contact) and we’ll help you sort it out.
+- Email: <support@vnsp.design> 
+- [Documentation](https://support.vnsp.net/)
+- [Contact support](https://vnsp.net?p=contact)
